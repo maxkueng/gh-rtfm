@@ -1,0 +1,22 @@
+{
+  "name": "gh-rtfm",
+  "version": "1.0.0",
+  "description": "Writes the README content of a GitHub repository to stdout",
+  "keywords": [
+    "gh",
+    "github",
+    "repo",
+    "readme",
+    "cli"
+  ],
+  "main": "index.js",
+  "bin": {
+    "gh-rtfm": "cli.js"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "author": "Max Kueng <me@maxkueng.com> (http://maxkueng.com/)",
+  "license": "MIT"
+}
